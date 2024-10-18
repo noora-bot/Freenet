@@ -1,2 +1,7 @@
 pyTelegramBotAPI
 ping3
+io
+time
+ping
+socket
+telebot
