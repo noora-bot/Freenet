@@ -5,7 +5,7 @@ from ping3 import ping
 import time
 import io
 
-TOKEN = 'توكنك'
+TOKEN = '7555454519:AAEoh9h13uVa3jjjVefavFzusHSOmCj9Cu4'
 bot = telebot.TeleBot(TOKEN)
 
 class IPScanner:
